@@ -25,7 +25,7 @@ SECRET_KEY = 'tba6uzk*f8#kxn-*f5a+glwtm20o##oe5#6b)1$u#9lfol8$@t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['wernauv.pythonanywhere.com', "127.0.0.1"]
 
 
 # Application definition
